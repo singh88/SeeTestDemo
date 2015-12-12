@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="LoginPage">
+<obj text="userName" version="1">
+<images enable="true">
+<image file="LoginPage/userName.PNG" jump="1" mainColor="-20301" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Username" class="" classBB="" classIOS="UITextFieldLabel" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Username" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="passWord" version="1">
+<images enable="true">
+<image file="LoginPage/passWord.PNG" jump="1" mainColor="-393a36" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Password" class="" classBB="" classIOS="UITextFieldLabel" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Password" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="login" version="1">
+<images enable="true">
+<image file="LoginPage/login.PNG" jump="1" mainColor="-f0001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Login" class="" classBB="" classIOS="UIButtonLabel" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Login" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+</domain>

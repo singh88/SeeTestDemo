@@ -1,0 +1,9 @@
+#Thu Dec 10 11:49:19 PST 2015
+platform=GENERIC
+lastZone=default
+version=2
+translator=Java (junit 4)
+mobile=true
+default.ios.user=root
+app.name=ios_app\:Small, Jeff’s iPhone
+default.ios.password=alpine

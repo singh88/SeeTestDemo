@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="login">
+<obj text="userName" version="1">
+<images enable="true">
+<image file="login/userName.PNG" jump="1" mainColor="-342d25" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Username" class="" classBB="" classIOS="UITextFieldLabel" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="text" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Username" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="passWord" version="1">
+<images enable="true">
+<image file="login/passWord.PNG" jump="1" mainColor="-ad957b" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Password" class="" classBB="" classIOS="UITextFieldLabel" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Password" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+</domain>
